@@ -78,7 +78,7 @@ a {
     }
   }
     .card-matrix {
-        background-image: url(../images/matrix.gif);
+        background-image: url(images/matrix.gif);
         padding: 40px;
         box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
         border-radius: 4px;
